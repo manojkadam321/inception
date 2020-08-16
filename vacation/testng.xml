@@ -3,7 +3,7 @@
 <suite name="VacationSuite">
   <test thread-count="5" name="VacationTest">
   <!-- browser = "firefox" or "chrome" -->
-  <parameter name = "browser" value="firefox"/>
+  <parameter name = "browser" value="chrome"/>
     <classes>
       <class name="hotwire.vacation.test.TestVacation"/>
     </classes>
